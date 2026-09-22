@@ -24,10 +24,7 @@
     Run 64-bit PowerShell as Administrator on the target Windows 11 VM.
     Example syntax:
     PS C:\> .\STIG-ID-WN11-CC-000066.ps1
-    Restart the VM afterward and rerun the Tenable compliance scan.
 
-    Process creation events also require Audit Process Creation - Success
-    (WN11-AU-000050) and the subcategory override policy (WN11-SO-000030).
 #>
 
 #Requires -RunAsAdministrator

@@ -24,7 +24,6 @@
     Run PowerShell as Administrator on the target Windows 11 computer.
     Example syntax:
     PS C:\> .\STIG-ID-WN11-CC-000345.ps1
-    Restart the computer afterward and rerun the Tenable compliance scan.
 #>
 
 

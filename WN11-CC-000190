@@ -24,7 +24,6 @@
     Run 64-bit PowerShell as Administrator on the target Windows 11 VM.
     Example syntax:
     PS C:\> .\STIG-ID-WN11-CC-000190.ps1
-    Restart the VM afterward and rerun the Tenable compliance scan.
 #>
 
 #Requires -RunAsAdministrator
